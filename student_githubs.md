@@ -15,3 +15,4 @@ https://github.com/arrthuzdkdkdk/algorithmslave <br/>
 https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm <br/>
 https://github.com/arrthuzdkdkdk/algorithmslave <br/>
 https://github.com/ChantelLai/Slave-to-the-Algorithm <br/>
+https://github.com/hunoong/slave2-A
